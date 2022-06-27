@@ -5,7 +5,8 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js",
+		"moment":"2.14.0"
 	},
 	"repository": {
 		"type": "git",
