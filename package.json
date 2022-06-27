@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Jane Doe",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [ "boilerplate", "free", "codecamp" ]
 }
