@@ -13,5 +13,10 @@
 	},
 	"author": "Jane Doe",
 	"description": "A project that does something awesome",
-	"keywords": [ "boilerplate", "free", "freecodecamp" ]
+	"keywords": [
+		"boilerplate",
+		"free",
+		"freecodecamp"
+	],
+	"licence": "MIT"
 }
